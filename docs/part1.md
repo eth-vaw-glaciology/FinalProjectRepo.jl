@@ -13,7 +13,7 @@ What's all about. Brief overview about:
 ## Methods
 The methods to be used:
 - spatial and temporal discretisation
-- solution apporach
+- solution approach
 - hardware
 - ...
 
