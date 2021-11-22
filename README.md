@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/eth-vaw-glaciology/FinalProjectRepo.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/eth-vaw-glaciology/FinalProjectRepo.jl/actions/workflows/CI.yml?query=branch%3Amaster)
 
 
-[Add some short info here about the project, an abstract in a sense, and link to the documentation for **Part-1** and **Part-2**.]
+[Add some short info here about the project, an abstract in a sense, and link to the documentation for [**Part-1**](/docs/part1.md) and [**Part-2**](/docs/part2.md).]
 
 ## Meta-Info (delete this)
 
