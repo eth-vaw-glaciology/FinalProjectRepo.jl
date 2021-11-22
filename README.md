@@ -1,6 +1,6 @@
-# FinalProjectRepo
+# Final Project Repo
 
-[![Build Status](https://github.com/mauro3/FinalProjectRepo.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/mauro3/FinalProjectRepo.jl/actions/workflows/CI.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/eth-vaw-glaciology/FinalProjectRepo.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/eth-vaw-glaciology/FinalProjectRepo.jl/actions/workflows/CI.yml?query=branch%3Amaster)
 
 
 [Add some short info here about the project, an abstract in a sense,
