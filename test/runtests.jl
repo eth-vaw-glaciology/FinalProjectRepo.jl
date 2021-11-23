@@ -1,6 +1,7 @@
 using FinalProjectRepo
 using Test
 
-@testset "FinalProjectRepo.jl" begin
-    # Write your tests here.
-end
+# make sure to turn off GPU usage, at least for Github Actions
+
+include("part1.jl")
+include("part2.jl")
